@@ -37,7 +37,7 @@ Redis (Leader/Follower replication)
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repo
-git clone https://github.com/<your-username>/guestbook-k8s.git
+git clone https://github.com/akhil-23code/guestbook-k8s.git
 cd guestbook-k8s
 
 ### 2. Build & Push Frontend Docker Image
